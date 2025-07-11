@@ -24,6 +24,6 @@ To design an interactive Power BI dashboard that tracks one-month LPG sales, emp
  - Power BI  
  - Microsoft Excel  
  - DAX (Data Analysis Expressions)
- - 
+ 
 ## Final Conclusion
 This project successfully demonstrates how Power BI can be leveraged to analyze and visualize monthly auto gas sales and employee performance. By building interactive dashboards with well-modeled relationships and DAX measures, the report offers actionable insights into fuel sales, operational efficiency, and employee contribution—enabling better business decisions at a glance.
