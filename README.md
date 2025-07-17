@@ -3,6 +3,7 @@
 To design an interactive Power BI dashboard that tracks one-month LPG sales, employee performance, and operational metrics for informed business decisions.
 
 ## Process  
+This Power BI project was developed to analyze and report one month of sales and employee operations for Jilu Auto Gas Station. The entire report is organized into two slides within a single Power BI page using buttons for navigation:
 - Collected and structured data related to LPG sales, employee details, tank inventory, and operational metrics for one month.  
 - Cleaned the dataset in Excel and Power BI Query Editor by removing null values, duplicate records, and unnecessary columns.  
 - Created relationships between three tables: Sales Table, Employee Table, and Tank Table.  
