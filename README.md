@@ -42,4 +42,4 @@ This Power BI project was developed to analyze and report one month of sales and
  - DAX (Data Analysis Expressions)
  
 ## Final Conclusion
-This project successfully demonstrates how Power BI can be leveraged to analyze and visualize monthly auto gas sales and employee performance. By building interactive dashboards with well-modeled relationships and DAX measures, the report offers actionable insights into fuel sales, operational efficiency, and employee contribution—enabling better business decisions at a glance.
+This project successfully demonstrates how Power BI can be leveraged to analyze and visualize monthly auto gas sales and employee performance. It combines financial metrics like profit, GST, and operating expenses with employee shift tracking and salary insights. The use of interactive buttons enables smooth navigation between Sales and Employee reports on a single page. Overall, it delivers actionable insights for efficient operations and better decision-making.
